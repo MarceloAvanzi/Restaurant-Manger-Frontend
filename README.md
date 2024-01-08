@@ -1,10 +1,8 @@
 Restaurant-Manager  
 A simple and complete Web tool built in Nodejs as backend and Reactjs as frontend to help you manage your restaurant (taking orders, mobile version, sending to the kitchen and checkout payment)  
-Database: mongoDB with Mongoose ODM  
-  
-Scope:  
+Database: mongoDB with Mongoose ODM   
 
-**Frontend:**  
+**Frontend Scope:**  
  - Centered window with toolbar (take orders, kitchen section for in kitchen orders, checkout payment for done orders, all orders, all users, all meals) at the left side  
  - Employee logs in and have acces to all items  
  - Take orders, it selects a customer and adds meals as they order it, total price at the bottom and buttom to send to kitchen or cancel  
